@@ -1,0 +1,15 @@
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/bin/Debug/net7.0/Adapter
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/bin/Debug/net7.0/Adapter.deps.json
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/bin/Debug/net7.0/Adapter.runtimeconfig.json
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/bin/Debug/net7.0/Adapter.dll
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/bin/Debug/net7.0/Adapter.pdb
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/obj/Debug/net7.0/Adapter.csproj.AssemblyReference.cache
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/obj/Debug/net7.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/obj/Debug/net7.0/Adapter.AssemblyInfoInputs.cache
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/obj/Debug/net7.0/Adapter.AssemblyInfo.cs
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/obj/Debug/net7.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/obj/Debug/net7.0/Adapter.dll
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/obj/Debug/net7.0/refint/Adapter.dll
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/obj/Debug/net7.0/Adapter.pdb
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/obj/Debug/net7.0/Adapter.genruntimeconfig.cache
+/Users/daniilkachurka/RiderProjects/Adapter/Adapter/obj/Debug/net7.0/ref/Adapter.dll
