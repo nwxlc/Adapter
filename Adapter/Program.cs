@@ -22,6 +22,8 @@
             Console.WriteLine("\nДикая утка:");
             wildDuck.Quack();
             wildDuck.Fly();
+
+            Console.ReadLine();
         }
     }
 }
